@@ -1,0 +1,49 @@
+# c0103-myls.c
+
+![image-20240512112734828](assets/image-20240512112734828.png)
+
+# c010502-file.list
+
+![image-20240512114238954](assets/image-20240512114238954.png)
+
+# c010503-myecho.c-data
+
+![image-20240512125248415](assets/image-20240512125248415.png)
+
+
+
+# c010503-myecho.c-outfile
+
+**![image-20240512125836339](assets/image-20240512125836339.png)**
+
+
+
+# c010505-standardIO.c
+
+![image-20240512131116256](assets/image-20240512131116256.png)
+
+# c010601-pid.c
+
+![image-20240512140350962](assets/image-20240512140350962.png)
+
+# c0107-errno.c
+
+![image-20240512142735982](assets/image-20240512142735982.png)
+
+
+
+# c0108-printgid.c
+
+![image-20240512143421116](assets/image-20240512143421116.png)
+
+# c0109-signal.c
+
+![image-20240512144522971](assets/image-20240512144522971.png)
+
+# c0110 time
+
+![image-20240512144802754](assets/image-20240512144802754.png)
+
+
+
+# 

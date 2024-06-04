@@ -1,0 +1,18 @@
+mysql客户端连接不上数据库
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '123456' WITH GRANT OPTION;
+
+flush privileges;
+
+ root 用户名
+123456 密码
+
+如果还无法登录就关闭系统防火墙
+在linux关闭防火墙可以这样：
+1. 重启系统生效 
+开启： chkconfig iptables on 
+关闭： chkconfig iptables off
+
+2. 即时生效，重启后失效 
+开启： service iptables start 
+关闭： service iptables stop 

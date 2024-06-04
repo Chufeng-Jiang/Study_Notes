@@ -1,0 +1,7 @@
+#include <stdiio.h>
+
+int main(void)
+{
+
+}
+this is a fflush test

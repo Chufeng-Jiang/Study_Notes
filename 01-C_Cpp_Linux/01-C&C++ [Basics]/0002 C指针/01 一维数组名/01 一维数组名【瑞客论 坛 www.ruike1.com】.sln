@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 一维数组名", "01 一维数组名\01 一维数组名.vcxproj", "{EB1A519D-021E-4480-804F-BFFA917545B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02 数组指针的定义方式", "02 数组指针的定义方式\02 数组指针的定义方式.vcxproj", "{E250DDC4-96B2-4F3D-A295-3E830A591B9A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 二维数组名", "03 二维数组名\03 二维数组名.vcxproj", "{C70AA335-CFB0-4B0A-9E41-9D07C3DA43CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 指针数组排序", "04 指针数组排序\04 指针数组排序.vcxproj", "{957BC4F3-EF78-49C8-8465-3CC907B7A816}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05 结构体的基本使用", "05 结构体的基本使用\05 结构体的基本使用.vcxproj", "{E4B33104-A0A0-4815-B554-FD8B0F2F7CD3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06 结构体深浅拷贝", "06 结构体深浅拷贝\06 结构体深浅拷贝.vcxproj", "{61339AA5-753B-48B7-8FAB-7836636388AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07 结构体嵌套一级指针练习", "07 结构体嵌套一级指针练习\07 结构体嵌套一级指针练习.vcxproj", "{8C02C550-06B4-4FB1-B642-F01F56040AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1A519D-021E-4480-804F-BFFA917545B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB1A519D-021E-4480-804F-BFFA917545B2}.Debug|Win32.Build.0 = Debug|Win32
+		{EB1A519D-021E-4480-804F-BFFA917545B2}.Release|Win32.ActiveCfg = Release|Win32
+		{EB1A519D-021E-4480-804F-BFFA917545B2}.Release|Win32.Build.0 = Release|Win32
+		{E250DDC4-96B2-4F3D-A295-3E830A591B9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E250DDC4-96B2-4F3D-A295-3E830A591B9A}.Debug|Win32.Build.0 = Debug|Win32
+		{E250DDC4-96B2-4F3D-A295-3E830A591B9A}.Release|Win32.ActiveCfg = Release|Win32
+		{E250DDC4-96B2-4F3D-A295-3E830A591B9A}.Release|Win32.Build.0 = Release|Win32
+		{C70AA335-CFB0-4B0A-9E41-9D07C3DA43CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C70AA335-CFB0-4B0A-9E41-9D07C3DA43CF}.Debug|Win32.Build.0 = Debug|Win32
+		{C70AA335-CFB0-4B0A-9E41-9D07C3DA43CF}.Release|Win32.ActiveCfg = Release|Win32
+		{C70AA335-CFB0-4B0A-9E41-9D07C3DA43CF}.Release|Win32.Build.0 = Release|Win32
+		{957BC4F3-EF78-49C8-8465-3CC907B7A816}.Debug|Win32.ActiveCfg = Debug|Win32
+		{957BC4F3-EF78-49C8-8465-3CC907B7A816}.Debug|Win32.Build.0 = Debug|Win32
+		{957BC4F3-EF78-49C8-8465-3CC907B7A816}.Release|Win32.ActiveCfg = Release|Win32
+		{957BC4F3-EF78-49C8-8465-3CC907B7A816}.Release|Win32.Build.0 = Release|Win32
+		{E4B33104-A0A0-4815-B554-FD8B0F2F7CD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4B33104-A0A0-4815-B554-FD8B0F2F7CD3}.Debug|Win32.Build.0 = Debug|Win32
+		{E4B33104-A0A0-4815-B554-FD8B0F2F7CD3}.Release|Win32.ActiveCfg = Release|Win32
+		{E4B33104-A0A0-4815-B554-FD8B0F2F7CD3}.Release|Win32.Build.0 = Release|Win32
+		{61339AA5-753B-48B7-8FAB-7836636388AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61339AA5-753B-48B7-8FAB-7836636388AF}.Debug|Win32.Build.0 = Debug|Win32
+		{61339AA5-753B-48B7-8FAB-7836636388AF}.Release|Win32.ActiveCfg = Release|Win32
+		{61339AA5-753B-48B7-8FAB-7836636388AF}.Release|Win32.Build.0 = Release|Win32
+		{8C02C550-06B4-4FB1-B642-F01F56040AFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C02C550-06B4-4FB1-B642-F01F56040AFE}.Debug|Win32.Build.0 = Debug|Win32
+		{8C02C550-06B4-4FB1-B642-F01F56040AFE}.Release|Win32.ActiveCfg = Release|Win32
+		{8C02C550-06B4-4FB1-B642-F01F56040AFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

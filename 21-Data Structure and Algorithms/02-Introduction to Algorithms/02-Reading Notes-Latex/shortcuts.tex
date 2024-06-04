@@ -1,0 +1,59 @@
+% 3.1.1 hightligh
+\usepackage{color}
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\authnote}[2]{{\bf[\textcolor{red}{#1}: \textcolor{blue}{#2}]}}
+\newcommand{\an}[2]{{\bf[\textcolor{blue}{#1}: \textcolor{red}{#2}]}}
+\newcommand{\greenote}[2]{{\bf[\textcolor[rgb]{0,0.5,0}{#1}: \textcolor[rgb]{0,0.5,0}{#2}]}}
+
+\newcommand{\prog}{\ensuremath{{\cal P}}\xspace}
+\newcommand{\true}{{\bf T}\xspace}
+\newcommand{\false}{{\bf F}\xspace}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\newcommand{\xor}{\ensuremath{\oplus}}
+\newcommand{\bool}{\texttt{Bool}}
+
+\newcommand{\code}[1]{\texttt{#1}}
+
+%\newcommand{\sysname}{{\sc Eponym}\xspace}
+% \newcommand{\sysname}{{\sc BinSymn}\xspace}
+\newcommand{\sysname}{{\scshape SymLM}\xspace}
+% \newcommand{\sysnamebf}{{\sc\bf SymLM}\xspace}
+% \newcommand{\sysnamebf}{{\scshape SymLM}\xspace}
+
+\newcommand{\eg}{\textit{e.g.}\xspace}
+\newcommand{\ie}{\textit{i.e.}\xspace}
+\newcommand{\etc}{\textit{etc.}\xspace}
+\newcommand{\etal}{\textit{et al.}\xspace}
+\newcommand{\locationmanager}{\texttt{Lo\-ca\-tion\-Ma\-na\-ger}\xspace}
+\newcommand{\locationprovider}{\texttt{Lo\-ca\-tion\-Pro\-vi\-der}\xspace}
+\newcommand{\allowmocklocations}{\texttt{ALLOW\-\_MOCK\-\_LOCA\-TIONS}\xspace}
+\newcommand{\isfrommockprovider}{\texttt{is\-From\-Mock\-Pro\-vi\-der()}\xspace}
+
+% \renewcommand\footnotetextcopyrightpermission[1]{} % 
+
+\newcommand{\myparagraph}[1]{\vspace{0.5em}\noindent{\bf #1}.}
+
+\newcommand\featuretext[1]{%
+  \llap{\vrule width.5pt height2pt depth2.5pt\kern2pt}%
+  \rlap{\rotatebox{30}{\textbf{#1}}}%
+}
+
+\newcommand{\tick}{\ding{52}}
+\newcommand{\tickNo}{\hspace{1pt}\ding{55}}
+
+\newcommand{\Xin}[1]{{\authnote{Xin}{#1}}}
+
+\newcommand{\ignore}[1]{}
+
+\renewcommand{\paragraph}[1]{\vspace{0.12in}\noindent{\bf{#1}.}}
+
+\newcommand{\sectionspace}{\vspace{0.00in}}
+\newcommand{\subsectionspace}{\vspace{0.02in}}
+
+\newcommand{\refspace}{\vspace{-0.08in}}
+
+\newcommand{\erick}[1]{{\authnote{Erick}{#1}}}
+\newcommand{\garrnote}[1]{{\greenote{Do This Garrett}{#1}}}
+
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+    \node[shape=circle,draw,inner sep=0.5pt] (char) {#1};}}

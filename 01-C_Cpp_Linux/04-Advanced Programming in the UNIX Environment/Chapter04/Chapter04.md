@@ -1,0 +1,56 @@
+# c0403
+
+```
+./c0403 /etc/passwd /etc /dev/log /dev/tty \
+> /var/lib/oprofile/opd_pipe /dev/sro /dev/cdrom
+```
+
+![image-20240519081643322](assets/image-20240519081643322.png)
+
+
+
+# c0408
+
+![image-20240519084729893](assets/image-20240519084729893.png)
+
+
+
+# c0409
+
+![image-20240519181724555](assets/image-20240519181724555.png)
+
+
+
+# c0412
+
+![image-20240519182420262](assets/image-20240519182420262.png)
+
+
+
+# c0416
+
+![image-20240519190659129](assets/image-20240519190659129.png)
+
+# c0421
+
+![image-20240519204740292](assets/image-20240519204740292.png)
+
+
+
+# c0422
+
+![image-20240519210234246](assets/image-20240519210234246.png)
+
+
+
+# c0423
+
+![image-20240519221617996](assets/image-20240519221617996.png)
+
+
+
+# c0424
+
+![image-20240519223022974](assets/image-20240519223022974.png)
+
+![image-20240519223041643](assets/image-20240519223041643.png)

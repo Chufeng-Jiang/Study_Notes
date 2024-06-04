@@ -1,0 +1,4 @@
+write only
+fcntl error for fd 4555unknown access mode, append, nonblocking, synchronous writes
+usage: a.out <descriptor#>: Success
+usage: a.out <descriptor#>: Success

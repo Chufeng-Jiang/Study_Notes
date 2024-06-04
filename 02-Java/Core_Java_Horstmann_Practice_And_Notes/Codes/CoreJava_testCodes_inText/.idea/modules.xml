@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter02_Fundamental_Programming_Structures_In_Java/Chapter02_Fundamental_Programming_Structures_In_Java.iml" filepath="$PROJECT_DIR$/Chapter02_Fundamental_Programming_Structures_In_Java/Chapter02_Fundamental_Programming_Structures_In_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava_testCodes_inText.iml" filepath="$PROJECT_DIR$/CoreJava_testCodes_inText.iml" />
+    </modules>
+  </component>
+</project>
